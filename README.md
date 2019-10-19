@@ -1,2 +1,2 @@
-# SEM 5
-Fifth Semester of College
+# College
+College stuff
