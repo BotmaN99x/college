@@ -1,0 +1,3 @@
+﻿  BankersAlgo.cpp
+D:\Visual Studio Programs\C\BankersAlgo\BankersAlgo\BankersAlgo.cpp(5,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  BankersAlgo.vcxproj -> D:\Visual Studio Programs\C\BankersAlgo\Debug\BankersAlgo.exe

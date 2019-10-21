@@ -1,0 +1,3 @@
+﻿  RRScheduling.cpp
+D:\Visual Studio Programs\C\RRScheduling\RRScheduling\RRScheduling.cpp(6,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  RRScheduling.vcxproj -> D:\Visual Studio Programs\C\RRScheduling\Debug\RRScheduling.exe

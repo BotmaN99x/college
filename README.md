@@ -1,2 +1,2 @@
-# college
-college stuff
+# College
+College stuff
